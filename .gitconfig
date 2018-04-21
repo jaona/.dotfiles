@@ -3,11 +3,11 @@
 	email = jaona.ramahaleo@gmail.com
 
 [alias]
-  co = checkout
-  cp = cherry-pick
-  ci = commit
-  st = status
-  br = branch
+	co = checkout
+	cp = cherry-pick
+	ci = commit
+	st = status
+	br = branch
 
 [color]
 	ui = true
